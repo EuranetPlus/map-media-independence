@@ -1,13 +1,10 @@
 {
-  "title": "Cé na tíortha san AE a thairgeann na hionchais fostaíochta is fearr?",
-  "subtitle": "Meastar gur 5.6% an fás fostaíochta amach anseo sna tíortha seo in 2022-2035.",
+  "title": "An gceadaíonn úinéirí na meán dá n-iriseoirí oibriú go neamhspleách?",
+  "subtitle": "Tá neamhspleáchas eagarthóireachta ó thionchar tráchtála agus úinéirí ríthábhachtach chun a chinntiú go bhfaigheann saoránaigh faisnéis neamhchlaonta, chun cuntasacht dhaonlathach a chumasú, agus chun cosc a chur ar chumhacht na tuairime a bheith i lámha líon beag úinéirí.",
   "textNoteDescription": "Nóta",
-  "textNote": "sdchdc",
   "textSourceDescription": "Foinse",
-  "textSource": "sdcshdc",
-  "linkDataAccessDescription": "Faigh rochtain ar na sonraí",
-  "extraInfo_DE": "Luathaíonn an Ghearmáin Rolladh Amach Fuinnimh In-athnuaite, Dírítear 80% ar Chumhacht Ghlan faoi 2030",
-  "extraInfo_FR": "Formheasann Parlaimint na Fraince Bille um Athchóiriú an Mhór-Imirce i measc Agóidí ar fud na tíre",
+  "textSource": "Ionad um Ilchineálacht sna Meáin agus Saoirse na Meán (2024)",
+  "linkDataAccessDescription": "Rochtain ar na sonraí",
   "legend1": "Níl aon sonraí ar fáil",
   "tooltipExtraInfoLabel": "Cliceáil anseo"
 }
