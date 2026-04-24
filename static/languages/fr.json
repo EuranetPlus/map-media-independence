@@ -1,13 +1,10 @@
 {
-  "title": "Quels pays de l’UE offrent les meilleures perspectives d’emploi ?",
-  "subtitle": "La croissance future de l’emploi dans ces pays en 2022-2035 est estimée à 5,6 %.",
+  "title": "Les propriétaires de médias autorisent-ils leurs journalistes à travailler de manière indépendante ?",
+  "subtitle": "L'indépendance éditoriale vis-à-vis des influences commerciales et des propriétaires est cruciale pour garantir que les citoyens reçoivent une information impartiale, permettre la responsabilité démocratique et empêcher la concentration du pouvoir d'opinion entre les mains de quelques propriétaires.",
   "textNoteDescription": "Note",
-  "textNote": "sdchdc",
   "textSourceDescription": "Source",
-  "textSource": "sdcshdc",
+  "textSource": "Centre pour le pluralisme des médias et la liberté des médias (2024)",
   "linkDataAccessDescription": "Accéder aux données",
-  "extraInfo_DE": "L'Allemagne accélère le déploiement des énergies renouvelables et vise 80 % d'énergie propre d'ici 2030",
-  "extraInfo_FR": "Le Parlement français approuve un important projet de loi sur la réforme de l'immigration au milieu de manifestations à l'échelle nationale",
   "legend1": "Aucune donnée disponible",
   "tooltipExtraInfoLabel": "Cliquez ici"
 }
