@@ -1,13 +1,10 @@
 {
-  "title": "Millised ELi riigid pakuvad parimaid töövõimalusi?",
-  "subtitle": "Nendes riikides on edaspidine tööhõive kasv aastatel 2022–2035 hinnanguliselt 5,6%.",
+  "title": "Kas meediaomanikud lubavad oma ajakirjanikel iseseisvalt töötada?",
+  "subtitle": "Toimetuslik sõltumatus ärilisest ja omanike mõjust on ülioluline, et tagada kodanikele erapooletu teabe saamine, võimaldada demokraatlikku vastutust ja vältida arvamusvõimu koondumist väheste omanike kätte.",
   "textNoteDescription": "Märkus",
-  "textNote": "sdchdc",
   "textSourceDescription": "Allikas",
-  "textSource": "sdcshdc",
+  "textSource": "Meedia mitmekesisuse ja meediavabaduse keskus (2024)",
   "linkDataAccessDescription": "Juurdepääs andmetele",
-  "extraInfo_DE": "Saksamaa kiirendab taastuvenergia kasutuselevõttu, seab eesmärgiks 80% puhta energia kasutamise aastaks 2030",
-  "extraInfo_FR": "Prantsusmaa parlament kiitis üleriigiliste protestide taustal heaks immigratsioonireformi seaduse eelnõu",
-  "legend1": "Andmed puuduvad",
-  "tooltipExtraInfoLabel": "Klõpsake siin"
+  "legend1": "Andmed pole saadaval",
+  "tooltipExtraInfoLabel": "Kliki siia"
 }
